@@ -99,7 +99,7 @@ int main()
 		s.top();
 		s.pop();
 	}
-	system("pause"); //comment
+	system("pause"); //comment string
     return 0;
 }
 
